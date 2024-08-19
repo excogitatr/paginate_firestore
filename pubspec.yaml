@@ -5,14 +5,14 @@ homepage: https://github.com/excogitatr/paginate_firestore
 issue_tracker: https://github.com/excogitatr/paginate_firestore/issues
 
 environment:
-  sdk: ">=2.15.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
   bloc: ^8.1.4
   flutter_bloc: ^8.1.6
-  cloud_firestore: ^5.0.2
+  cloud_firestore: ^5.2.1
   provider: ^6.1.2
 
 dev_dependencies:
